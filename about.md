@@ -1,6 +1,8 @@
 ---
-title: about
+layout: page
+title: About
 ---
 
 sjdvnehfnwdnvwjdfvgrfgr
-rgesrfbrgerfg
+rgesrfbrgerfgde
+
